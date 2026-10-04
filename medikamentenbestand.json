@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-04T10:28:53.104Z",
+  "updatedAt": "2026-10-04T10:29:56.539Z",
   "stocks": {
     "gabapentin": 92,
     "metformin": 28,
     "ozempic": 0,
     "pravastatin": 0,
-    "omeprazol": 100,
+    "omeprazol": 10,
     "metohexal": 100,
-    "metoprolol": 94,
+    "metoprolol": 4,
     "ultibro": 45,
     "ramilich": 100
   }
